@@ -1,0 +1,1 @@
+%w(foo bar) is a shortcut for ["foo", "bar"]. Meaning it's a notation to write an array of strings separated by spaces instead of commas and without quotes around them. You can find a list of ways of writing literals in zenspider's quickref.
